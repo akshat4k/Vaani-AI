@@ -9,8 +9,6 @@ Vaani-AI is an AI-powered job interview preparation platform designed to help us
 - [Installation](#installation)
 - [Environment Variables](#environment-variables)
 - [Running the Project](#running-the-project)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Vaani-AI allows users to practice mock job interviews powered by Vapi’s voice agents and Google Gemini. It provides real-time feedback and a detailed transcript of the interview to help you refine your answers. The platform is designed to be beginner-friendly, offering easy integration of AI models into your applications.
